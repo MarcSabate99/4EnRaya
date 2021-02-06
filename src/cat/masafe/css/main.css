@@ -1,0 +1,8 @@
+#playBtn{
+    -fx-background-color: black;
+    -fx-font-style: normal;
+    -fx-border-width: 0;
+    -fx-font-size: 22;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+}

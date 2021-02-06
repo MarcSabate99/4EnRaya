@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.control.Button?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml" prefHeight="730" prefWidth="730" stylesheets="@../css/game.css">
+    <Pane prefWidth="100" prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="0-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="0-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="0-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="0-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="0-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="0-5">
+
+        </Button>
+    </Pane>
+
+    <Pane layoutX="119.2857" prefWidth="100"  prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="1-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="1-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="1-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="1-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="1-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="1-5">
+
+        </Button>
+    </Pane>
+
+    <Pane layoutX="238.5714" prefWidth="100" prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="2-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="2-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="2-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="2-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="2-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="2-5">
+
+        </Button>
+    </Pane>
+
+    <Pane layoutX="357.8571" prefWidth="100" prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="3-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="3-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="3-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="3-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="3-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="3-5">
+
+        </Button>
+    </Pane>
+
+    <Pane layoutX="477.1428" prefWidth="100" prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="4-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="4-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="4-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="4-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="4-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="4-5">
+
+        </Button>
+    </Pane>
+
+
+
+    <Pane layoutX="596.4285" prefWidth="100" prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="5-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="5-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="5-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="5-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="5-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="5-5">
+
+        </Button>
+    </Pane>
+
+    <Pane layoutX="715.7142" prefWidth="100"  prefHeight="525" styleClass="column">
+        <Button layoutX="15" layoutY="15" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="6-0">
+
+        </Button>
+        <Button layoutX="15" layoutY="100" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="6-1">
+
+        </Button>
+        <Button layoutX="15" layoutY="185" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="6-2">
+
+        </Button>
+        <Button layoutX="15" layoutY="270" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="6-3">
+
+        </Button>
+        <Button layoutX="15" layoutY="355" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="6-4">
+
+        </Button>
+        <Button layoutX="15" layoutY="440" prefHeight="70" prefWidth="70" styleClass="dot" onAction="#handleGenerateBall" userData="6-5">
+
+        </Button>
+    </Pane>
+</AnchorPane>

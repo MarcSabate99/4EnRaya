@@ -1,0 +1,19 @@
+.column{
+    -fx-background-color: #1caae3;
+}
+.dot{
+    -fx-background-color: white;
+    -fx-border-radius: 30;
+    -fx-background-radius: 100;
+}
+
+.dot:hover{
+    -fx-border-color: #000000;
+    -fx-border-width: 5;
+}
+.yellow{
+    -fx-background-color: yellow;
+}
+.red{
+    -fx-background-color: red;
+}
